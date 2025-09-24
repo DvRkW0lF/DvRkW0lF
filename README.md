@@ -1,4 +1,4 @@
-[https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://ncshosting.org)
+<a href="https://discord.com/users/1381603265988526243"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 ## My current projects:
 - [Selini](#Selini)
 - [Trusty](#Trusty)
