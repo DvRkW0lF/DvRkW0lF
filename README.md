@@ -1,8 +1,8 @@
-<a href="https://discord.com/users/1381603265988526243" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://t.me/thedvrkwolf" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></a><a href="mailto:cjos@ncshosting.org" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/1381603265988526243"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://t.me/thedvrkwolf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></a><a href="mailto:cjos@ncshosting.org"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 ## My current projects:
-[Selini](#Selini)
-[Trusty](#Trusty)
-[Plutus](#Plutus)
+[Selini](#Selini)<br>
+[Trusty](#Trusty)<br>
+[Plutus](#Plutus)<br>
 [Nexus Cloud Solutions Hosting](#Nexus-Cloud-Solutions-Hosting)
 
 ## Selini
