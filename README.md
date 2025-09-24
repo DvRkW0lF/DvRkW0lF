@@ -1,3 +1,7 @@
+## Sample Section
+
+Link to the sample section: [https://discord.com/oauth2/authorize?client_id=821273904344989736](#sample-section)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvRkW0lF&show_icons=true&theme=dark)](https://github.com/DvRkW0lF/github-readme-stats)
 <!--
 **DvRkW0lF/DvRkW0lF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
