@@ -18,4 +18,4 @@
 - [Website](https://ncshosting.org) ┃ [Github](https://github.com/NCS-Hosting)
 
 # Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvRkW0lF&show_icons=true&theme=dark)](https://github.com/DvRkW0lF/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvRkW0lF)](https://github.com/DvRkW0lF/github-readme-stats)
