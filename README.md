@@ -16,6 +16,3 @@
 # Nexus Cloud Solutions Hosting
 [Hosting Service] NCS Hosting is a trusted provider of reliable, high-performance web hosting solutions designed to support both individuals and businesses. They focus on delivering a range of services—from web hosting and VPS solutions to dedicated servers—ensuring robust infrastructure and exceptional uptime.
 - [Website](https://ncshosting.org) ┃ [Github](https://github.com/NCS-Hosting)
-
-# Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvRkW0lF&show_icons=true&theme=dark)](https://github.com/DvRkW0lF/github-readme-stats)
